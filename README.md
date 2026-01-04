@@ -8,40 +8,13 @@ I build practical projects, learn deeply, and share knowledge through open-sourc
 - **Learning:** advanced React, React Native, data engineering, ML fundamentals  
 - **Open to:** GenAI/RAG + frontend/full-stack collaboration, educational OSS, internships
 
-## ⭐ Featured Projects (GenAI/RAG + Frontend)
-
-- **Historical Quotes Explorer (RAG Quality Gates)**  
-  RAG system with a reproducible evaluation pipeline  
-  - Improved **Retrieval Precision: 0.389 → 0.889 (+128.6%)** on identical query sets  
-  Repo: https://github.com/n6s8/rag-quality-gates
-
-- **Weather + News Agent (MCP, Social Data Assistant)**  
-  Conversational agent over weather and news streams  
-  - Multilingual intent classification (EN/RU + basic KZ), modular MCP orchestration, fallback strategies  
-  Repo: https://github.com/n6s8/MCP-Agni
-
-- **ZamanAI — Personal Finance Analysis Tool**  
-  Offline-first spending analysis with bank statement parsing  
-  - PDF/CSV extraction, preprocessing pipelines, optional AI explanations for interpretability  
-  Repo: https://github.com/n6s8/ZamanAI
-
-- **WhatsApp Web Clone**  
-  Real-time messaging web application  
-  - React + TypeScript + WebSockets, resilient retry/backoff, input validation, CI/CD to Vercel  
-  Repo: https://github.com/n6s8/Whatsapp-Clone
+🔎 **Selected work:** see pinned repositories below for GenAI/RAG and frontend projects with evaluation metrics and production-like setups.
 
 ## 🧠 Engineering Focus
 
 - **RAG systems:** embeddings, vector search, evaluation & metrics, hallucination and answer relevance heuristics
 - **Frontend:** React + TypeScript, Tailwind, routing, forms, state management
 - **Engineering:** REST APIs, WebSockets, CI/CD, testing, data pipelines, security foundations
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neponator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurzhan-sultanov)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Neponator)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s8n6a6@gmail.com)
 
 ## 🧰 Tech Stack (Focus)
 
@@ -75,6 +48,12 @@ I build practical projects, learn deeply, and share knowledge through open-sourc
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neponator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurzhan-sultanov)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Neponator)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s8n6a6@gmail.com)
 
 <details>
   <summary>📊 GitHub Stats</summary>
