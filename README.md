@@ -1,6 +1,11 @@
-# 💫 About Me:
-# Hi 👋, I'm Nurzhan<br><br>I’m a Computer Science student at Nazarbayev University with a strong interest in Frontend Development, Data Science, and Generative AI.  <br>I enjoy building real-world projects, learning deeply, and sharing knowledge through teaching and open-source.<br><br>---<br><br>## 🚀 About Me<br><br>🔭 **I’m currently working on:**<br>- Frontend projects using React, TypeScript, and Tailwind CSS  <br>- Generative AI systems (RAG, Advanced RAG) <br>- Personal projects combining web development and data analysis  <br><br>👯 **I’m looking to collaborate on:**<br>- Frontend or Full-Stack projects (React / Next.js)  <br>- Open-source projects related to education, productivity, or AI  <br>- Student startups and hackathon projects  <br><br>🌱 **I’m currently learning:**<br>- Advanced React and performance optimization  <br>- React Native for mobile development  <br>- Data Engineering and Machine Learning fundamentals  <br>- Generative AI (RAG, embeddings, evaluation metrics)  <br><br>💬 
+## 👋 Hi, I’m Nurzhan
 
+I’m a Computer Science student at Nazarbayev University interested in frontend development, data science, and generative AI.  
+I enjoy building practical projects, learning deeply, and sharing knowledge through open-source and teaching.
+
+**Currently:** working with React, TypeScript, Tailwind CSS, and GenAI (RAG systems).  
+**Learning:** advanced React, React Native, data engineering, and ML fundamentals.  
+**Open to:** collaboration on frontend, full-stack, and educational open-source projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neponator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurzhan-sultanov) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Neponator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s8n6a6@gmail.com) 
